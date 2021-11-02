@@ -1,0 +1,31 @@
+body {
+	background-color: #292929;
+	font-family: sans-serif;
+	color: white;
+}
+table {
+	margin: auto;
+	border-spacing: 0 15px;
+}
+navbar{
+	border-radius: 7px;
+}
+insert{
+	border-style: solid;
+}
+input[type=text],
+input[type=password],
+input[type=date],
+select, textarea{
+	width: 100%;
+	border-style: solid;
+	border-color: #404040;
+	height: 25pt;
+	border-radius: 5pt;
+	margin: 10px 0;
+}
+
+textarea{
+	height: 80pt;
+}
+
